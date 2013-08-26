@@ -25,7 +25,7 @@
     "mongoose-migrate": "./bin/migrate"
   },
   "dependencies": {
-    "mongoose": "latest"
+    "mongoose": "~3.6.18"
   },
   "devDependencies": {
     "should": ">= 0.0.1"
